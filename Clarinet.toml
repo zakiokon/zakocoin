@@ -1,0 +1,8 @@
+[project]
+name = "zakocoin"
+description = "ZakoCoin fungible token (Clarity)"
+telemetry = true
+
+[contracts.zakocoin]
+path = "contracts/zakocoin.clar"
+depends_on = []
